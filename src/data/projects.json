@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/weatherapp.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Html" ,"Css" ,"JS" , "Vite"],
+      "demo": "http://localhost:3002/",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Whatsapp Clone",
+      "imageSrc": "projects/whatsappclone.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "http://localhost:3003/",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Contact Us",
+      "imageSrc": "projects/contactus.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "http://localhost:5174/",
+      "source": "https://www.github.com"
+    }
+  ]
